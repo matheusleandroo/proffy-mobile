@@ -91,9 +91,6 @@ Now you can use "**Proffy Mobile**".
   <li>Expo</li>
   <li>TypeScript</li>
   <li>Axios</li>
-  <li>PropTypes</li>
-  <li>Styled Components</li>
-  <li>ESLint + Prettier + EditorConfig</li>
 </ul>
 
 ## Authors
